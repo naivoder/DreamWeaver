@@ -17,7 +17,7 @@ We recommend using [Conda](https://docs.conda.io/en/latest/) for managing depend
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/DreamWeaver.git
+   git clone https://github.com/naivoder/DreamWeaver.git
    cd DreamWeaver
    ```
 
