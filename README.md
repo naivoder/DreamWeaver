@@ -6,10 +6,6 @@ DreamWeaver is an implementation of continual meta-reinforcement learning that b
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Environment](#environment)
-- [Evaluation](#evaluation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
